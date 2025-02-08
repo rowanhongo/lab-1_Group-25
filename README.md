@@ -1,5 +1,5 @@
 # Guidelines
-d
+
 ## Before You Start
 
 Follow these steps to prepare for your work:
